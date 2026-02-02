@@ -23,6 +23,7 @@ padding: 12px 30px;
 }
 .second-section {
   display: flex;
+  margin: 30px;
 justify-content: center;
 flex-wrap: wrap; /* Дозволпє елементам переноситись на новий рядок */
 }
@@ -57,4 +58,5 @@ font-weight: bold;
 text-transform: uppercase; /* Всі літери великі */
 cursor: pointer; /* Зміна курсору при наведенні */
 padding: 12px 30px;
+
 }
